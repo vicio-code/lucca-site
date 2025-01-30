@@ -26,13 +26,13 @@ export default function Links() {
         const IconComponent = value[2];
         return (
           <div className="px-4 flex items-center space-x-2" key={key}>
-            <IconComponent className="text-white" />
+            <IconComponent className="text-[#f6c177]" />
             <Link
               href={url}
               target="_blank" rel="noopener noreferrer"
               className="link-style py-2"
             >
-              <span>{label}</span>
+              <span className="text-base">{label}</span>
             </Link>
           </div>
         );

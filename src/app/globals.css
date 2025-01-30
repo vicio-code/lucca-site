@@ -8,7 +8,7 @@
 }
 
 .link-style {
-  @apply decoration-[#9ccfd8] underline decoration-dotted decoration-2;
+  @apply text-[#9ccfd8] decoration-[#9ccfd8] underline decoration-dotted decoration-2;
 }
 
 body {

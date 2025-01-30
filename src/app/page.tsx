@@ -3,7 +3,7 @@ import Profile from "./components/Profile";
 
 export default function Home() {
   return (
-    <div className="max-w-lg mx-auto">
+    <div className="max-w-3xl mx-auto">
       <div className="">
         <Profile />
         <Links />
