@@ -7,6 +7,10 @@
   --foreground: #ededed;
 }
 
+.link-style {
+  @apply text-cyan-400 underline decoration-dotted decoration-2;
+}
+
 body {
   color: var(--foreground);
   background: var(--background);

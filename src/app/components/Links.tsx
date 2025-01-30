@@ -30,7 +30,7 @@ export default function Links() {
             <Link
               href={url}
               target="_blank" rel="noopener noreferrer"
-              className="text-cyan-400 underline decoration-dotted decoration-2 hover:decoration-solid hover:text-cyan-500 py-2"
+              className="link-style py-2"
             >
               <span>{label}</span>
             </Link>
