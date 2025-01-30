@@ -18,7 +18,7 @@ const data = {
 
 export default function Profile() {
   return (
-    <div className="grid justify-items-center py-6">
+    <div className="grid justify-items-center pt-6">
       <div className="py-2">
         <Image
           src={profilePic}

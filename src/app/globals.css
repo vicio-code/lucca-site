@@ -3,12 +3,12 @@
 @tailwind utilities;
 
 :root {
-  --background: #0a0a0a;
-  --foreground: #ededed;
+  --background: #191724;
+  --foreground: #e0def4;
 }
 
 .link-style {
-  @apply text-cyan-400 underline decoration-dotted decoration-2;
+  @apply decoration-[#9ccfd8] underline decoration-dotted decoration-2;
 }
 
 body {
