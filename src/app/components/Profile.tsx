@@ -11,7 +11,7 @@ const data = {
   JobTitle: "Desenvolvedor web",
   Description: [
     "Desenvolvedor em formação, sempre pronto para transformar café em código.",
-    "Quero contribuir com soluções criativas e eficientes em em busca de novos desafios e aprendizados",
+    "Quero contribuir com soluções criativas e eficientes em busca de novos desafios e aprendizados",
   ],
   CV: "https://drive.google.com/uc?export=download&id=1fHjcp6SKFfzMBp2dVc4NgnK9wv776Kf6",
 };
